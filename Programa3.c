@@ -1,3 +1,22 @@
+/*
+
+Realice el programa en C de la multiplicación de la matrices que
+se muestran a continuación:
+
+a = [
+1 2 3
+4 5 6
+7 8 9
+
+] b = [
+
+1 2 3
+4 5 6
+7 8 9
+]
+
+*/
+
 #include <stdio.h>
 
 void matrixMultiplication(int mat1[][3], int mat2[][3], int result[][3]) {

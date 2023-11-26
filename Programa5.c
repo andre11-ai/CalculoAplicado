@@ -1,3 +1,11 @@
+/*
+
+Almacene en un registro o estructura los datos de un jugador
+de basquetbol, como son: nombre, edad, teléfono, sexo y
+altura. Que el programa imprima el sexo y la altura del jugador.
+
+*/
+
 #include <stdio.h>
 
 // Definición de la estructura Jugador

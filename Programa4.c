@@ -1,7 +1,17 @@
+/*
+
+Haga el programa principal con un menú de cuatro funciones
+con paso de parámetros que conviertan de: 1. Grados
+centígrados a grados Fahrenheit, 2. Grados Fahrenheit a grados
+centígrados, 3. Grados centígrados a grados Kelvin y 4. Grados
+Kelvin a grados centígrados.
+
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
-//  Funciones 
+//  Funciones
 float celsius_Fahrenheit(float celsius) {
     return (celsius * 9 / 5) + 32;
 }
