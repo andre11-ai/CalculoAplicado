@@ -52,7 +52,7 @@ void printMatrix(int matrix[][3]) {
 
 int main() {
     int mat1[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-    int mat2[3][3] = {{9, 8, 7}, {6, 5, 4}, {3, 2, 1}};
+    int mat2[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
     int result[3][3];
 
     matrixMultiplication(mat1, mat2, result); // Llamar a la función para realizar la multiplicación de matrices
